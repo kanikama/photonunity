@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Photon Unity Networking/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
+    <Files>
+      <File FileName="Assets/Photon Unity Networking/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PhotonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" Line="75" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="../PhotonSample/Assets/Plugins/Scripts/CameraController.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/BulletController.cs" Line="8" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
